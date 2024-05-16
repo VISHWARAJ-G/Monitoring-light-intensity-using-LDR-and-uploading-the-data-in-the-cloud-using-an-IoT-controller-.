@@ -240,11 +240,11 @@ void LDR() {
 
 ```
 # CIRCUIT DIAGRAM:
-<img src="image.png" width="400">
+<img src="image.png" width="1000">
 
 # OUTPUT:
-<img src="WhatsApp Image 2024-05-16 at 14.58.04_cccfe4bd.jpg" width="400">
-<img src="WhatsApp Image 2024-05-16 at 15.00.02_de386d23.jpg">
+<img src="WhatsApp Image 2024-05-16 at 14.58.04_cccfe4bd.jpg" width="1000">
+<img src="WhatsApp Image 2024-05-16 at 15.00.02_de386d23.jpg" width="1000">
 
 # RESULT:
 
