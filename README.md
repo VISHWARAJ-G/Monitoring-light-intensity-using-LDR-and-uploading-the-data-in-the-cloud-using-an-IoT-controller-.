@@ -240,10 +240,12 @@ void LDR() {
 
 ```
 # CIRCUIT DIAGRAM:
-![alt text](image.png)
+<img src="image.png" width="400">
+
 # OUTPUT:
-![alt text](<WhatsApp Image 2024-05-16 at 14.58.04_cccfe4bd.jpg>)
-![alt text](<WhatsApp Image 2024-05-16 at 15.00.02_de386d23.jpg>)
+<img src="WhatsApp Image 2024-05-16 at 14.58.04_cccfe4bd.jpg" width="400">
+<img src="WhatsApp Image 2024-05-16 at 15.00.02_de386d23.jpg">
+
 # RESULT:
 
 Thus the light intensity valve is uploaded in the Things mate using Arduino controller.
